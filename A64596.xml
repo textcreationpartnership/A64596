@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Upright lives of the heathen briefly noted, or, Epistles and discourses betwixt Alexander the Conqueror and Dindimus King of the Brachmans giving an account what sort of people they are, their divinity and philosophy, with their manner of living, &amp;c. : collected together, and published for a general service.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64596</idno>
+            <idno type="STC">Wing U120</idno>
+            <idno type="STC">ESTC R33718</idno>
+            <idno type="EEBO-CITATION">13551934</idno>
+            <idno type="OCLC">ocm 13551934</idno>
+            <idno type="VID">100203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64596)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1558:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Upright lives of the heathen briefly noted, or, Epistles and discourses betwixt Alexander the Conqueror and Dindimus King of the Brachmans giving an account what sort of people they are, their divinity and philosophy, with their manner of living, &amp;c. : collected together, and published for a general service.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Doctrinal.</term>
+               <term>Salvation.</term>
+               <term>Brahmanism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100203:1"/>
+            <pb facs="tcp:100203:1"/>
+            <p>
+               <hi>The UPRIGHT <hi>Lives of the Heathen</hi> Briefly Noted: Or, Epiſtles and Diſcourſes betwixt Alexander the Conquerer AND DINDIMUS <hi>King of the Brachmans</hi> Giving an Account what ſort of People they are, their Divinity and Phyloſophy, with their manner of Living,</hi> &amp;c.</p>
+            <p>Collected together, and Publiſhed for a general Service.</p>
+            <q>Pythagoras <hi>ſaith,</hi> God reſembleth Light &amp; Truth: God himſelf inhabits tho loweſt, higheſt and middlemoſt; there is no beeing or place without God.</q>
+            <q>Socrates <hi>ſaid,</hi> God is ſo great, as that at once he ſees all, hears all, is every where, and orders all.</q>
+            <q>Philo, <hi>a</hi> Jew <hi>born, yet a very noted Philoſopher, ſaith,</hi> How ſhould the Soul of a man know God, if he did not inſpire her, and take hold of her by his divine Power?</q>
+            <q>
+               <l>Who after Death, reache the heavenly plain,</l>
+               <l>Become like God, and never dye again<g ref="char:punc">▪</g>
+               </l>
+            </q>
+            <p>
+               <hi>The Golden diſtick of the</hi> Pythagorians, <hi>as it hath been called.</hi>
+            </p>
+            <p>London, <hi>Printed and Sold by</hi> Andrew Sowle, <hi>at the Crooked-Billet in</hi> Holy-Well-Lane, <hi>near</hi> Shoreditch.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100203:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:100203:2"/>
+            <p n="1">1. <hi>Dindimus</hi> King of the <hi>Brachmans,</hi> his Letter to <hi>Alexander</hi> the Conquerer.</p>
+            <p>KING, We have heard of thy Battles and Victories, but what ſhall ſuffice thee whom all the World ſufficeth not? Riches we have none for thee; why then ſhouldſt thou war on us? All our Goods are to common us: Vile things and ſcarce we have, inſtead of Gold and great Aray: Our Women be not arayed to pleaſe; for great Aray is counted nought with us; not highneſs nor fairneſs: Our Women deſire no more Fairneſs than they have by kind; dry Ditches and Dens ſtand us in double ſtead, for Harbour while we live, and for Graves when we are dead. If we have ſometimes a King, it is not to do us Right; for Honeſty by kind will do that: We have amongſt us neither Doom nor Plea, for we do nothing that needs Re<g ref="char:EOLhyphen"/>dreſs, either by Doom or Plea: We deſire no more than Rea<g ref="char:EOLhyphen"/>ſon and Kind asketh; we hold that needful which we know is meaſurable: Our People have one Law, and do nothing againſt this Law of Kind: We uſe no Trade to make us covetous: We ſhun and forſake ſoul Sloth and Leachery. We do nothing that needs Puniſhment. It is unlawful to us to wound the Hills with Coulters, or the Ax: We uſe no glutting or outragiouſneſs of Meat or Drink, therefore we be not ſick: We dwell in the dry Ditches; Heaven finds us a Covering, the Earth a Lodging: We be not <hi>Warriors,</hi> we make <hi>peace</hi> with <hi>good living,</hi> not with <hi>ſtrength:</hi> We ſeek not plentious Gain; for it is right liking to us to be<g ref="char:EOLhyphen"/>hold the Firmament and Stars of Heaven: We be men of ſingle Speech, its common to us all not to Lye. The God of all Grace is our God; for he hath liking in our words and deeds, by our manner of ſpeaking; he is a Word, a Spirit, Love and Thought, and is not pleaſed with worldly Riches, but with holy Works and thanks for his Grace.</p>
+            <p>Upon this King <hi>Alexander</hi> anſwer'd with Taunts and Jeers, as if <hi>Dindimus deſpiſed Gods Benefits, counting all Handicraſis ſinful;</hi>
+               <pb n="4" facs="tcp:100203:3"/>and alſo ſay, <hi>That they are Gods, and ſo have envy to God, and blame his faireſt Creatures.</hi>
+            </p>
+            <p>But <hi>Dindimus</hi> anſwered, We be not at home in this world, we come not to dwell here, &amp;c. we be not aliend with charges of Sin, but without each manner of charge, we draw near to our own Houſes, and lie faſt homewards; we ſay, <hi>Not we be Godds,</hi> but we ſay, we will not abuſe the goodneſs of God Almighty: we ſay, things are ſeemly which are lawful; God hath put the uſe of things into mens freedom; then he that leaveth the <hi>worſt,</hi> and followeth the <hi>beſt,</hi> is not <hi>God,</hi> but is made <hi>Gods Friend.</hi> When ye ſwell in Wealth, and Pride hath blown you up, ye forget that ye are <hi>Men,</hi> and ſay that <hi>God reekons of Mankind.</hi> Ye build Tem<g ref="char:EOLhyphen"/>ples to your ſelves, in which ye ſhed mens Blood; and therefore I call you Wood (or Mad) for ye wot not what ye do; and if ye deſpiſe Gods writing, then ye hold in the Sacriledge.</p>
+            <p>Then <hi>Alexander</hi> writeth this Epiſtle to him again, with many Taunts and Jeers, comparing them in their Sacrifices to them that were in Priſon, ſaying, <hi>The cauſe why they tilled not the ground w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s becauſe they had no Iron: And their Women not coſtly arrayed, is no marvel, becauſe they have not wherewith.</hi>
+            </p>
+            <p>
+               <hi>Dindimus</hi> anſwered, Ye make wars and Battles, and war out<g ref="char:EOLhyphen"/>wardly againſt men, becauſe ye have not overcome the Enemy Within; but we <hi>Brachmans</hi> have overcome the inward Battels in our Members, and reſt ſecure, and have no Battles outwardly; we behold the Firmament of Heaven, her Birds ſinging; we be healed &amp; fed with Leaves and Fruits of Trees; we drink Water, and ſing Songs in Worſhip of God, and take heed, &amp; think of the Life coming. We be approv'd with few words, and even ſtill, and hold our peace. Ye ſay what ſhall be done, and yet do it not: Your <hi>Wit</hi> and <hi>Wiſdom</hi> is in your <hi>Lips;</hi> ye hunger after <hi>Gold,</hi> ye need <hi>Houſes</hi> and <hi>Servants,</hi> ye want <hi>Reverence</hi> and <hi>Worſhip, &amp;c.</hi>
+            </p>
+            <p n="2">II. Of the Ambaſſadours ſent by <hi>Alexander</hi> to <hi>Dindimus,</hi> with his Reply to them.</p>
+            <p>After that, <hi>Alexander</hi> ſent Ambaſſadors to <hi>Dindimus,</hi> requir<g ref="char:EOLhyphen"/>ing him, and charging him, <hi>To come to him without delay;</hi> promi<g ref="char:EOLhyphen"/>ſing
+<pb n="5" facs="tcp:100203:3"/>him <hi>great Gifts and Rewards if he obeyed, which if he did not he ſhould looſe his Life; and all this in the Name of</hi> Alexander, <hi>the King of all men, and Son of the great Godd</hi> Jupiter.</p>
+            <p>But <hi>Dindimus</hi> ſingling at this vapour, and not moving his head from the Leaves he lay upon, and lay ſtill, and anſwered after this manner, <hi>Soth faſt, God, the great King, giveth man right, &amp; doth no man Wrong; he never begot Injury, but Light, Life, Peace, the Water, Body and Souls, which he alſo receives when they have finiſhed their courſe; nor was he ever the Author of Luſt:</hi> This is my Lord and only God, who as he hates Murther, ſo he wageth not War, nor raiſeth Strife. The things I ſeek, I eaſily attain to; thoſe things which I regard not, I am not to be driven to; if therefore <hi>Alexander</hi> take my Head, and ſlay me, he ſhall not deſtroy my Soul, which will return to the Lord, while the Body, which was taken out of the Earth, ſhall thereunto return; for I being made a Spirit, ſhall aſcend unto my God, who included us in the fleſh, and placed us upon this Earth, to try us, whether we being gone forth from him, would live unto him, as he hath commanded, who demandeth an account of thoſe that depart; for he is a <hi>Judge</hi> of all <hi>Injuries:</hi> and the <hi>Sighs</hi> of thoſe that are injuriouſly treated, become the pain of thoſe that injure them. Let <hi>Alexander</hi> then threaten them that <hi>love Silver</hi> and <hi>Gold,</hi> and <hi>fear Death;</hi> neither of which have place amongſt the <hi>Brachmans,</hi> who do neither <hi>fear</hi> the one nor <hi>love</hi> the other. Go therefore &amp; tell <hi>Alexander, Dindimus</hi> wants him not, and if he wants <hi>Din<g ref="char:EOLhyphen"/>dimus,</hi> let him come to him.</p>
+            <p n="3">III. The Conference betwixt <hi>Alexander</hi> and <hi>Dindimus.</hi>
+            </p>
+            <p>Which being reported to <hi>Alexander,</hi> he was the more deſirous to ſee the ſingle old man, that could conquer him after he had conquered ſo many Nations, and ſo left all Pomp and Boaſting, comes to him, and ſaid, <hi>I come to hear a word of Wiſdom from thee, whom I hear doſt converſe with God.</hi>
+            </p>
+            <p>To whom <hi>Dindimus</hi> replyed, Why diſtrubeſt thou our Peace: very willingly would I adminiſter to thee, the words of the Wiſ<g ref="char:EOLhyphen"/>dom
+<pb n="6" facs="tcp:100203:4"/>of God, hadſt thou but place in thy Mind, to receive the Gift of God adminiſtred; but thy Mind being filled with various Luſts, unſatiable Avarice, and deviliſh Deſire to Rule, which fight againſt me and my deſigns of drawing thee off from deſtroy<g ref="char:EOLhyphen"/>ing Nations, and ſhedding humane Blood, are in all things contrary to the Wiſdom, by which I and the <hi>Brachmans</hi> are led, who <hi>worſhip God, love Men, contemn Gold, deſpiſe Death</hi> and <hi>ſlight Pleaſures;</hi> whereas <hi>Alexander</hi> and his <hi>fear Death, love Gold, covet Pleaſure, hate Men</hi> and <hi>deſpiſe God;</hi> adding, How can I ſpeak unto thee the words of the Wiſdom of God, whoſe Cogitations are ſo filled with Pomp, Oſtentation and inordinate Luſts, that a whole World is not able to ſatiate thee? How then ſhall I ſuffice thee? And further, God hath made thee little, and thou deſireſt all the World; yet needeſt thou have as little Land at laſt, as thou ſeeſt me lie upon, or thy ſelf ſit upon: If thou learneſt Wiſdom of me, it is all thou ſhalt have, &amp;c. I know God's Secrets; for God doth will that I be partaker of his works; then whether, ſayſt thou, is moſt right, to misbid men, or to defend them, and do them right? to ſhed and kill, or to keep and ſave? If thou ſlay me, I go to God.</p>
+            <p>However, he refuſed not to give <hi>Alexander</hi> that counſel, which as he confeſſed, was convinced in his heart, was good, but could not follow, <hi>viz.</hi> to ceaſe warring againſt men without, and en<g ref="char:EOLhyphen"/>gage himſelf in another warfare, againſt the <hi>Enemies within him<g ref="char:EOLhyphen"/>ſelf,</hi> his <hi>Luſts, Affections</hi> and <hi>Deſires,</hi> if he deſired to be Rich indeed, and to be a true Victor; aſſuring him, that all his <hi>Power,</hi> all his <hi>Hoſts,</hi> all his <hi>Riches,</hi> all his <hi>Pomp,</hi> would at laſt not avail him any thing; but (ſaith he) if thou wilt hearken unto my words, thou ſhalt poſſeſs of my Goods, who have God to my Friend, and whoſe Inſpiration I enjoy within me—Thus thou ſhalt overcome <hi>Luſt,</hi> the Mother of Penury, which never obtains what it ſeeks; thus thou ſhalt with us honour thy ſelf, by becoming ſuch as God had created thee. Adding, though thou ſlay me for telling thee theſe profitable things, I fear not; for (ſaith he) I ſhall return to my God, who created all things, who knows my cauſe, and before whom nothing is hidden. I know not, ſaith he, whether thou ſhalt be ſo happy as to find thy ſelf perſwaded by my words, but I aſſure thee, if thou be
+<pb n="7" facs="tcp:100203:4"/>not, when thou art departed hence, I ſhall ſee thee puniſhed for thy Actions, and hear thee lament with deep and ſharp Sighs, the Miſery thou haſt put many to, &amp;c. <hi>viz.</hi> when thou ſhalt have no other Companion than the Memory of the Evils thou haſt heap<g ref="char:EOLhyphen"/>ed upon thy ſelf; for, ſaith he, I know the Pains juſtly inflicted by God upon unjuſt men. Then thou ſhalt ſay unto me, <hi>Dindi<g ref="char:EOLhyphen"/>mus, how good a Counſellor wert thou to me, &amp;c!</hi>
+            </p>
+            <p>Theſe things <hi>Alexander</hi> heard (as its ſaid of <hi>Herod</hi> concerning <hi>John Baptiſt</hi>) not only without wroth, but with a placit Coun<g ref="char:EOLhyphen"/>tenance, and replyed, <hi>O</hi> Dindimus! <hi>thou true Teacher of the</hi> Brachmans, <hi>thou comeſt of God, I have found thee the moſt excel<g ref="char:EOLhyphen"/>lent amongſt men, by reaſon of the Spirit that is in thee: I know all thou haſt ſpoken is true; God hath brought thee forth, and ſent thee into this place, in which thou art happy and rich, wanting nothing, enjoying much reſt and peace<g ref="char:punc">▪</g> But what ſhall I do, who cohabit with continual Slaughter? I live in great Dread, and am afraid of my own Warders; I dread more my Friends than my Enemies; I may not leave them and truſt others. At dayes I grieve other men, and am at night grieved my ſelf: If I would live in the Deſart, my Lieutenants would not ſuffer me; and though they would, being in this ſtate, it is not lawful for me to quit them; for how ſhall I defend my ſelf before God, who hath aſſigned me this Lot. But thou Reverend old Man, and Servant of God, for theſe words of Wiſdom, wherewith thou haſt helped and rejoyced me, dehorting me from War, receive thou my Preſents, and deſpiſe me not; I am affected with Kindneſs, honour<g ref="char:EOLhyphen"/>ing Wiſdom:</hi> And ſo commanded his Servants to bring forth <hi>Gold</hi> and <hi>Silver; Bread</hi> and <hi>Oyl,</hi> and ſeveral ſorts of <hi>Aray;</hi> which <hi>Dindimus</hi> beholding, laughed, ſaying to <hi>Alexander,</hi> Perſwade (if thou canſt) the Birds about the Woods to receive thy Gold, or ſing the better for it; but if thou canſt not perſwade them, nor ſhalt thou ever perſwade me to be worſe then they; I therefore receive no unprofitable Preſent, which I can neither eat nor drink; nor do I ſerve Soul-hurtful Riches, <hi>&amp;c.</hi> Here is nothing in this Deſart to be bought with Gold, for God gives me all things freely, <hi>&amp;c.</hi> ſelling nothing for Gold, but freely beſtow<g ref="char:EOLhyphen"/>ing all good things, and even the Mind on thoſe that freely ac<g ref="char:EOLhyphen"/>cept it, <hi>&amp;c.</hi> but for that I will not grieve thee too much, I
+<pb n="8" facs="tcp:100203:5"/>will receive the Oyl of thee; And he walking about the Wood, gathered ſome ſticks, and kindled a Fire, he ſaid, The <hi>Brachmans</hi> have all things, being fed by Providence; and into the Fi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he poured the Oyl, till it was all conſumed, and ſang a Hymn to God Almighty, as followeth:</p>
+            <p>
+               <q>
+                  <hi>O God Immortal! I give thee in all things Thanks; for thou ruleſt<g ref="char:punc">▪</g> in all things, giving all things abundantly to thy Creature for their Food. Thou creating this World, doſt preſerve it, expect<g ref="char:EOLhyphen"/>ing the Souls which thou haſt ſent into it, that thou mayſt, as God, juſtifie thoſe that have led a Pious Life, and condemn thoſe th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> have not obeyed thy Laws; for all Righteous Judgment is with thee, and Life Eternal prepared by thee, who with Eternal Goodneſs ſheweſt Mercy unto all.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> Now as concerning the <hi>Brachmans</hi> of <hi>India, Suidas</hi> tells of one <hi>Brachman</hi> that preſcribed their Rites and Laws, &amp;c.</p>
+            <p>Of the <hi>Indian Philoſophers,</hi> or men learned and Religious, the <hi>Brachmans</hi> obtain the firſt place, as being neareſt in ſect to the <hi>Greeks.</hi> Theſe are, after their manner, <hi>Nazarites</hi> from the Womb: So ſoon as their Mother is conceived of them, there are learned men appointed, which come to the Mother with Songs, containing Precepts of Chaſtity: As they in years, they change their Maſters; they have their places of Exerciſe in a Grove, nigh to the City, where they are buſied in grave Concerns: They eat no living Creatures, nor have uſe of Women, live frugarly, and lie upon skins; they will inſtruct ſuch as will hear them, but their Hearers muſt neither ſneeze, ſpit nor ſpeak. When they have in this ſtrict courſe ſpent thirty ſeven years, they may live more at pleaſure and liberty, in Diet, Habit, proper Habitations, and the uſe of Gold and Marriage; they conceal their Myſteries from their Wives, leſt they ſhould blad them abroad: They eſteem this Life as Mans Conception, but his Death-day to be his Birth-day unto that true and happy Life, to him which hath been rightly Re<g ref="char:EOLhyphen"/>ligious, <hi>[A worthy Sentence!]</hi> The <hi>Brachmans</hi> hold the World to be created corruptible, round, ruled by the high God <hi>Water</hi> they imagin to have been the beginning of making the World; and that be<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>des the four Elements there is a fifth Na<g ref="char:EOLhyphen"/>ture,
+<pb n="9" facs="tcp:100203:5"/>whereof the Heavens and Stars conſiſt: They hold the <hi>Immortality</hi> of the <hi>Soul,</hi> and of the <hi>Torments</hi> of <hi>Hell,</hi> and that the Souls of the Righteous go to God.</p>
+            <p>
+               <hi>Megaſthenes</hi> commendeth <hi>Mandanis</hi> (one of the <hi>Brachmans</hi>) ſay<g ref="char:EOLhyphen"/>ing, <hi>That when</hi> Alexander<hi>'s Meſſengers told him, That he muſt come to the Son of</hi> Jupiter, with Promiſe of <hi>Rewards if he came,</hi> but if otherwiſe, menacing <hi>Torture.</hi> He anſwered, That neither was he <hi>Jupiter</hi>'s Son, nor did poſſeſs any great part of the Earth. As for himſelf, he neither reſpected his Gifts nor feared his Threatnings; for while he lived, <hi>India</hi> yielded him ſuf<g ref="char:EOLhyphen"/>ficient; if he dyed, he ſhould be freed from Age, and exchange for a better and purer Life: whereupon <hi>Alexander</hi> both par<g ref="char:EOLhyphen"/>doned and praiſed him.</p>
+            <p>
+               <hi>Clemens Alexandrinas</hi> ſpeaks of their Faſtings, and other auſtere Courſes, out of <hi>Alex. Poly. Hiſt. de Ru<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us judicis,</hi> 
+               <q>The <hi>Brachmans</hi> (ſaith he) neither eat any <hi>quick</hi> thing, nor drink <hi>Wine,</hi> but ſome of them eat every day, as we do; ſome only every third day: They contemn Death, nor much eſt<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m of Life, believing to be Born again. <hi>Clem. Alex. ſtorm. l.</hi> 3.</q>
+            </p>
+            <p>
+               <hi>Suidas</hi> tells of a Nation called <hi>Brachmans,</hi> inhabiting an Iſland in the See, where <hi>Alexander</hi> erected a Pillar, with In<g ref="char:EOLhyphen"/>ſcription, <hi>That he had paſſed ſo far.</hi> They live an hundred and fifty years, and have neither <hi>Bread, Wine, Fleſh, Mettal</hi> nor <hi>Houſes,</hi> but live of the <hi>Fruits</hi> and <hi>clear Water,</hi> and are very <hi>Reli<g ref="char:EOLhyphen"/>gious, &amp;c.</hi> Theſe ſlay no <hi>Beaſts</hi> in Sacrifice, but affirm, that God accepteth unbloody Sacrifices of Prayer, and more delight<g ref="char:EOLhyphen"/>eth in Man his own Image.</p>
+            <p>To <hi>Alexander</hi> did the <hi>Indian Magie</hi> (ſo doth <hi>Arianus</hi> call their <hi>Brachmans</hi>) ſay, That he was but as other men, ſaving that he had leſs Reſt, and more Troubleſom, and being dead ſhould enjoy no more Land than would ſerve to cover his Body; and every man (ſaid they) ſtamping with their feet on the ground, hath as much as he treadeth on. <hi>Arian. lib.</hi> 7.</p>
+            <p>
+               <hi>Euſabius</hi> writeth out of <hi>Braedſanes Cyrus,</hi> That amongſt the <hi>Indians</hi> and <hi>Bactrians</hi> were many Thoſand <hi>Brachmans,</hi> which as well by Tradition as by Law, worſhipped no Image, nor
+<pb n="10" facs="tcp:100203:6"/>eat any quick Creature, drank no Wine nor Beer, only at<g ref="char:EOLhyphen"/>tending on Divine things; whereas the other <hi>Indians</hi> are very Vitious, yea, ſome hunt men, ſacrifice and devour them, and were as Idolaters. <hi>Euſeb. depreſ. Evang. lib.</hi> 6. <hi>cap.</hi> 8.</p>
+            <p>
+               <hi>Heurnius</hi> reporteth, That they have Books and Prophets, which they alledge for Confirmation of their Opinions; and that they have in their Writings the <hi>Decalogue,</hi> with the Ex<g ref="char:EOLhyphen"/>plication thereof; that they adjure all of their Society to ſilence, touching their Myſteries; and that they adore the God which created Heaven and Earth, often repeating the Sentence, <hi>I Adore thee, O God, with thy Grace and Aid forever.</hi> When they waſh themſelves (which is often) they lay a little Aſhes on their Fore-heads and Breaſts, ſaying, <hi>That they ſhall return unto Aſhes. Heur. indic. cap.</hi> 3.</p>
+            <p>There was a malabar Poet, which wrote nine hundred <hi>Epi<g ref="char:EOLhyphen"/>grams</hi> againſt their Pago-gods, each conſiſting of eight Verſes, wherein he ſpeaks many things Elegantly of the divine Providence of Heaven, and the Torments of Hell, and other things, agreeing to the <hi>Chriſtian Faith,</hi> That <hi>God is preſent every where, and gives to every one according to his eſtate;</hi> That <hi>Coeleſtial Bleſſedneſs conſiſts in the Viſion of God;</hi> That <hi>the damned in Hell ſhall be tormented Millions of Years in Flames, and ſhall never dye.</hi>
+            </p>
+            <p>
+               <hi>Ariſtotle</hi> in his <hi>Ethicks,</hi> lib. 10. cap. 4.7. ſaid, <hi>They that did theſe things did them not as men, but as having ſomething Divine, or of God in them.</hi>
+            </p>
+            <p>Thoſe that deſire to read more of their <hi>Divinity, Philoſo<g ref="char:EOLhyphen"/>phy,</hi> and manner of <hi>Living,</hi> are refer'd to a paper lately publiſhed entituled, A <hi>Dialogue</hi> betwixt an <hi>Eaſt Indian Brachman,</hi> and a <hi>Chriſtian,</hi> price 1 d.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:100203:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
